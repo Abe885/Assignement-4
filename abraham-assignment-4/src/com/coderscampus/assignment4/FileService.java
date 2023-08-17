@@ -9,9 +9,9 @@ import java.io.FileWriter;
 import java.util.Arrays;
 
 public class FileService {
-	String csvStudentFile1 = "course1.csv";
-	String csvStudentFile2 = "course2.csv";
-	String csvStudentFile3 = "course3.csv";
+	private String csvStudentFile1 = "course1.csv";
+	private	String csvStudentFile2 = "course2.csv";
+	private String csvStudentFile3 = "course3.csv";
 	
 	private Student[] students = new Student[101];
 
