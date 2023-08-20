@@ -1,34 +1,35 @@
-Student{STUDENTID = 28, NAME = Justin Conrad, COURSE = COMPSCI 310, GRADE = 99}
-Student{STUDENTID = 37, NAME = Simone Scott, COURSE = COMPSCI 312, GRADE = 91}
-Student{STUDENTID = 19, NAME = Blair Heaton, COURSE = COMPSCI 309, GRADE = 87}
-Student{STUDENTID = 91, NAME = Donald Schultz, COURSE = COMPSCI 321, GRADE = 87}
-Student{STUDENTID = 79, NAME = Kerys John, COURSE = COMPSCI 319, GRADE = 87}
-Student{STUDENTID = 64, NAME = Jameson Best, COURSE = COMPSCI 316, GRADE = 86}
-Student{STUDENTID = 73, NAME = Alys Mccormick, COURSE = COMPSCI 318, GRADE = 85}
-Student{STUDENTID = 97, NAME = Angus Navarro, COURSE = COMPSCI 322, GRADE = 85}
-Student{STUDENTID = 16, NAME = Allan Povey, COURSE = COMPSCI 308, GRADE = 83}
-Student{STUDENTID = 61, NAME = Antoine Cummings, COURSE = COMPSCI 316, GRADE = 83}
-Student{STUDENTID = 88, NAME = Kwame Mckenzie, COURSE = COMPSCI 320, GRADE = 83}
-Student{STUDENTID = 25, NAME = Angelina Shepard, COURSE = COMPSCI 310, GRADE = 82}
-Student{STUDENTID = 4, NAME = Elsie Medina, COURSE = COMPSCI 306, GRADE = 81}
-Student{STUDENTID = 76, NAME = Simran Hahn, COURSE = COMPSCI 318, GRADE = 80}
-Student{STUDENTID = 10, NAME = Darrell Newton, COURSE = COMPSCI 307, GRADE = 79}
-Student{STUDENTID = 43, NAME = Priyanka Nieves, COURSE = COMPSCI 313, GRADE = 79}
-Student{STUDENTID = 100, NAME = Simeon Rowley, COURSE = COMPSCI 322, GRADE = 78}
-Student{STUDENTID = 52, NAME = Eloisa Serrano, COURSE = COMPSCI 314, GRADE = 76}
-Student{STUDENTID = 49, NAME = Ihsan Burt, COURSE = COMPSCI 314, GRADE = 74}
-Student{STUDENTID = 22, NAME = Joy Ayers, COURSE = COMPSCI 309, GRADE = 74}
-Student{STUDENTID = 34, NAME = Yassin Mcintyre, COURSE = COMPSCI 311, GRADE = 74}
-Student{STUDENTID = 94, NAME = Maiya Gallegos, COURSE = COMPSCI 321, GRADE = 73}
-Student{STUDENTID = 67, NAME = Iqra Hodson, COURSE = COMPSCI 317, GRADE = 72}
-Student{STUDENTID = 70, NAME = Tegan Fox, COURSE = COMPSCI 317, GRADE = 72}
-Student{STUDENTID = 46, NAME = Mitchell Duran, COURSE = COMPSCI 313, GRADE = 71}
-Student{STUDENTID = 85, NAME = Aamina Mclaughlin, COURSE = COMPSCI 320, GRADE = 69}
-Student{STUDENTID = 55, NAME = Kelsey Ware, COURSE = COMPSCI 315, GRADE = 69}
-Student{STUDENTID = 58, NAME = Arielle Pope, COURSE = COMPSCI 315, GRADE = 67}
-Student{STUDENTID = 82, NAME = Braxton Colley, COURSE = COMPSCI 319, GRADE = 66}
-Student{STUDENTID = 1, NAME = Sacha Rich, COURSE = COMPSCI 306, GRADE = 66}
-Student{STUDENTID = 40, NAME = Elize Robin, COURSE = COMPSCI 312, GRADE = 65}
-Student{STUDENTID = 7, NAME = Liyah Preece, COURSE = COMPSCI 307, GRADE = 63}
-Student{STUDENTID = 31, NAME = Aryaan Coates, COURSE = COMPSCI 311, GRADE = 58}
-Student{STUDENTID = 13, NAME = Luther Thornton, COURSE = COMPSCI 308, GRADE = 53}
+Student ID,Student Name,Course,Grade
+28,Justin Conrad,COMPSCI 310,99
+37,Simone Scott,COMPSCI 312,91
+19,Blair Heaton,COMPSCI 309,87
+91,Donald Schultz,COMPSCI 321,87
+79,Kerys John,COMPSCI 319,87
+64,Jameson Best,COMPSCI 316,86
+73,Alys Mccormick,COMPSCI 318,85
+97,Angus Navarro,COMPSCI 322,85
+16,Allan Povey,COMPSCI 308,83
+61,Antoine Cummings,COMPSCI 316,83
+88,Kwame Mckenzie,COMPSCI 320,83
+25,Angelina Shepard,COMPSCI 310,82
+4,Elsie Medina,COMPSCI 306,81
+76,Simran Hahn,COMPSCI 318,80
+10,Darrell Newton,COMPSCI 307,79
+43,Priyanka Nieves,COMPSCI 313,79
+100,Simeon Rowley,COMPSCI 322,78
+52,Eloisa Serrano,COMPSCI 314,76
+49,Ihsan Burt,COMPSCI 314,74
+22,Joy Ayers,COMPSCI 309,74
+34,Yassin Mcintyre,COMPSCI 311,74
+94,Maiya Gallegos,COMPSCI 321,73
+67,Iqra Hodson,COMPSCI 317,72
+70,Tegan Fox,COMPSCI 317,72
+46,Mitchell Duran,COMPSCI 313,71
+85,Aamina Mclaughlin,COMPSCI 320,69
+55,Kelsey Ware,COMPSCI 315,69
+58,Arielle Pope,COMPSCI 315,67
+82,Braxton Colley,COMPSCI 319,66
+1,Sacha Rich,COMPSCI 306,66
+40,Elize Robin,COMPSCI 312,65
+7,Liyah Preece,COMPSCI 307,63
+31,Aryaan Coates,COMPSCI 311,58
+13,Luther Thornton,COMPSCI 308,53

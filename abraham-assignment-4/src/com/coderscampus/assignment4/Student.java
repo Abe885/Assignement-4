@@ -41,7 +41,7 @@ public class Student implements Comparable<Student> {
 	}
 
 	public String toString() {
-		return "Student{" + "STUDENTID = " + studentID + ", NAME = " + name + ", COURSE = " + course
-				+ ", GRADE = " + grade + '}';
+		return studentID + "," + name + "," + course + ","
+				+  grade;
 	}
 }

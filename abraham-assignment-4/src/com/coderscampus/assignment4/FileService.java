@@ -87,6 +87,8 @@ public class FileService {
 				System.out.println(course1Students[i]);
 				try {
 					writer = new BufferedWriter(new FileWriter(csvStudentFile1));
+					writer.write("Student ID,Student Name,Course,Grade");
+					writer.newLine();
 					for (int v = 0; v < course1Count; v++) {
 						if (course1Students[v] != null) {
 							writer.write(course1Students[v].toString());
@@ -118,6 +120,8 @@ public class FileService {
 					System.out.println(course1Students[i]);
 					try {
 						writer = new BufferedWriter(new FileWriter(csvStudentFile2));
+						writer.write("Student ID,Student Name,Course,Grade");
+						writer.newLine();
 						for (int f = 0; f < course2Count; f++) {
 							if (course1Students[f] != null) {
 								writer.write(course2Students[f].toString());
@@ -148,6 +152,8 @@ public class FileService {
 				System.out.println(course3Students[i]);
 				try {
 					writer = new BufferedWriter(new FileWriter(csvStudentFile3));
+					writer.write("Student ID,Student Name,Course,Grade");
+					writer.newLine();
 					for (int r = 0; r < course3Count; r++) {
 						if (course3Students[r] != null) {
 							writer.write(course3Students[r].toString());
